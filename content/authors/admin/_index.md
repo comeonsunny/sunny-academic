@@ -31,7 +31,7 @@ education:
     - course: MA in Financial
       institution: ShanDong University
       year: 2017
-    - course: BS in Information Science and Technology
+    - course: BSc in Inform. Science and Technology
       institution: Northeast Forestry University 
       year: 2012
 
