@@ -69,7 +69,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+Hi! I'm Changqi Sun; thanks for visiting my homepage. I am applying a Ph.D. degree.
+I'm now a third year M.S. student in Computer Science at [DongGuan University of Technology Cyberspace Security Lab](https://cs.dgut.edu.cn/index.htm). It's very lucky for me to be advised by Professor [Rui Li](https://ieeexplore.ieee.org/author/37071988400).
 Changqi Sun is a MS student of Computer Science and Technology at the DongGuan University of Technology Cyberspace Security Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
