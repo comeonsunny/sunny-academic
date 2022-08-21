@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MS in Computer Science
+    - course: MS in Computer Science and Technology
       institution: DongGuan University of Technology
       year: 2021
-    - course: MA in Artificial Intelligence
+    - course: MA in Financial
       institution: ShanDong University
       year: 2017
-    - course: BSc in Artificial Intelligence
+    - course: BSc in Information Science and Technology
       institution: Northeast Forestry University 
       year: 2012
 
