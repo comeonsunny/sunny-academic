@@ -30,11 +30,9 @@ education:
       year: 2021
     - course: MA in Financial
       institution: Shandong University
-      link: https://www.sdu.edu.cn/
       year: 2017
     - course: BSc in Inform. Science and Technology
       institution: Northeast Forestry University
-      link: https://www.nefu.edu.cn/index.htm
       year: 2012
 
 # Social/Academic Networking
@@ -73,10 +71,12 @@ highlight_name: true
 ---
 Hi! I'm Changqi Sun. Thanks for visiting my homepage. 
 I am looking for a like-minded mentor as my future Ph.D. supervisor. 
-I'm now a third year M.S. student in Computer Science at [College of Cyberspace Security, DongGuan University of Technology](https://cs.dgut.edu.cn/index.htm). It's very lucky for me to be advised by Professor [Rui Li](https://ieeexplore.ieee.org/author/37071988400).
-I have received another master degree in Finance from [The Center For Economic Research](http://www.cer.sdu.edu.cn/), Shandong University and was lucky to be supervised by [Aijun Lee](https://faculty.sdu.edu.cn/liaijun/zh_CN/index/604687/list/index.htm).
-Changqi Sun is a MS student of Computer Science and Technology at the DongGuan University of Technology Cyberspace Security Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests primarily lie in the privacy preserving and secure computatoin. My current works focus on protecting cloud users' data access pattern from leaking. Furthermore, I am striving to improve the efficiency of Oblivious Random Access Machine (ORAM), a cryptography primitive hiding the data access pattern. In addition, I am interested in the intersection of autopilot and artifical intelligence. 
+
+I'm now a third year M.S. student in Computer Science at [College of Cyberspace Security, DongGuan University of Technology](https://cs.dgut.edu.cn/index.htm). It's very lucky for me to be advised by Professor [Rui Li](https://ieeexplore.ieee.org/author/37071988400).
+I have received another master degree in Finance from [The Center For Economic Research](http://www.cer.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) and was lucky to be supervised by [Aijun Lee](https://faculty.sdu.edu.cn/liaijun/zh_CN/index/604687/list/index.htm).
+I received my bachelor's degree in Mathematics at [Northeast Forestry University](https://www.nefu.edu.cn/index.htm).
+As an undergraduate student, I was lucky to collaborate with Professor [Liang Ding](https://science.nefu.edu.cn/info/1223/2274.htm) at [Science College](https://science.nefu.edu.cn/) to publish a paper [Application of shearlet and wavelets in signal and image denoising](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=HLDZ201602022&uniplatform=NZKPT&v=qqgVrzQAwQp76MgW50x01ghdLI8qj47sDDeXf9n-x0VHqGgvkZZjPtp7VJM67cFv).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
