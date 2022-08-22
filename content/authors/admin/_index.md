@@ -26,10 +26,10 @@ interests:
 education:
   courses:
     - course: MS in Computer Science and Technology
-      institution: DongGuan University of Technology
+      institution: Dongguan University of Technology
       year: 2021
     - course: MA in Financial
-      institution: ShanDong University
+      institution: Shandong University
       link: https://www.sdu.edu.cn/
       year: 2017
     - course: BSc in Inform. Science and Technology
@@ -71,8 +71,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi! I'm Changqi Sun; thanks for visiting my homepage. I am applying a Ph.D. degree.
-I'm now a third year M.S. student in Computer Science at [DongGuan University of Technology Cyberspace Security Lab](https://cs.dgut.edu.cn/index.htm). It's very lucky for me to be advised by Professor [Rui Li](https://ieeexplore.ieee.org/author/37071988400).
+Hi! I'm Changqi Sun. Thanks for visiting my homepage. 
+I am looking for a like-minded mentor as my future Ph.D. supervisor. 
+I'm now a third year M.S. student in Computer Science at [College of Cyberspace Security, DongGuan University of Technology](https://cs.dgut.edu.cn/index.htm). It's very lucky for me to be advised by Professor [Rui Li](https://ieeexplore.ieee.org/author/37071988400).
+I have received another master degree in Finance from [The Center For Economic Research](http://www.cer.sdu.edu.cn/), Shandong University and was lucky to be supervised by [Aijun Lee](https://faculty.sdu.edu.cn/liaijun/zh_CN/index/604687/list/index.htm).
 Changqi Sun is a MS student of Computer Science and Technology at the DongGuan University of Technology Cyberspace Security Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
