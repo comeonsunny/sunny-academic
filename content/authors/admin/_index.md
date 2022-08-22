@@ -30,9 +30,11 @@ education:
       year: 2021
     - course: MA in Financial
       institution: ShanDong University
+      link: https://www.sdu.edu.cn/
       year: 2017
     - course: BSc in Inform. Science and Technology
-      institution: Northeast Forestry University 
+      institution: Northeast Forestry University
+      link: https://www.nefu.edu.cn/index.htm
       year: 2012
 
 # Social/Academic Networking
