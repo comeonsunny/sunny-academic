@@ -6,7 +6,7 @@ title: Changqi Sun
 superuser: true
 
 # Role/position/tagline
-role: M.S. student in CS Applying for Ph.D
+role: M.S. student in CS Applying for Ph.D.
 
 # Organizations/Affiliations to show in About widget
 organizations:
