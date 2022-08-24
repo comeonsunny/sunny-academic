@@ -45,16 +45,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/home
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://blog.csdn.net/weixin_38396940?type=blog
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/comeonsunny
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -77,6 +77,6 @@ My research interests primarily lie in the privacy preserving and secure computa
 I'm now a third year M.S. student in Computer Science at [College of Cyberspace Security, DongGuan University of Technology](https://cs.dgut.edu.cn/index.htm). It's very lucky for me to be advised by Professor [Rui Lee](https://ieeexplore.ieee.org/author/37071988400).
 I have received another master degree in Finance from [The Center For Economic Research](http://www.cer.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) and was lucky to be supervised by [Aijun Lee](https://faculty.sdu.edu.cn/liaijun/zh_CN/index/604687/list/index.htm).
 I received my bachelor's degree in Mathematics at [Northeast Forestry University](https://www.nefu.edu.cn/index.htm).
-As an undergraduate student, I was lucky to collaborate with Professor [Liang Ding](https://science.nefu.edu.cn/info/1223/2274.htm) at [Science College](https://science.nefu.edu.cn/) to publish a paper [**Application of shearlet and wavelets in signal and image denoising**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=HLDZ201602022&uniplatform=NZKPT&v=qqgVrzQAwQp76MgW50x01ghdLI8qj47sDDeXf9n-x0VHqGgvkZZjPtp7VJM67cFv).
+As an undergraduate student, I was lucky to collaborate with Professor [Liang Ding](https://science.nefu.edu.cn/info/1223/2274.htm) at [Science College](https://science.nefu.edu.cn/) to participate a [National Innovation Training Program for College Students](https://drive.google.com/file/d/1V2J1CIe08hOpQfmALnY0_4i7FF-LGFth/view?usp=sharing) publish a paper named [**Application of shearlet and wavelets in signal and image denoising**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=HLDZ201602022&uniplatform=NZKPT&v=qqgVrzQAwQp76MgW50x01ghdLI8qj47sDDeXf9n-x0VHqGgvkZZjPtp7VJM67cFv).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
