@@ -72,7 +72,7 @@ highlight_name: true
 Hi! I'm Changqi Sun. Thanks for visiting my homepage. 
 I am looking for a like-minded mentor as my future Ph.D. supervisor. 
 
-My research interests primarily lie in the privacy preserving and secure computatoin. My current works focus on protecting cloud users' data access pattern from leaking. Furthermore, I am striving to improve the efficiency of Oblivious Random Access Machine (ORAM), a cryptography primitive hiding the data access pattern. In addition, I am interested in the intersection of autopilot and artifical intelligence. 
+My research interests primarily lie in the privacy preserving and secure computation. My current works focus on protecting cloud users' data access pattern from leaking. Furthermore, I am striving to improve the efficiency of Oblivious Random Access Machine (ORAM), a cryptography primitive hiding the data access pattern. In addition, I am interested in the intersection of autopilot and artificial intelligence. 
 
 I'm now a third year M.S. student in Computer Science at [College of Cyberspace Security, DongGuan University of Technology](https://cs.dgut.edu.cn/index.htm). It's very lucky for me to be advised by Professor [Rui Lee](https://ieeexplore.ieee.org/author/37071988400).
 I have received another master degree in Finance from [The Center For Economic Research](http://www.cer.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) and was lucky to be supervised by [Aijun Lee](https://faculty.sdu.edu.cn/liaijun/zh_CN/index/604687/list/index.htm).
