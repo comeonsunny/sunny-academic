@@ -31,7 +31,7 @@ education:
     - course: MA in Financial
       institution: Shandong University
       year: 2017
-    - course: BSc in Inform. Science and Technology
+    - course: BSc in Inform. & Computing Science
       institution: Northeast Forestry University
       year: 2012
 
@@ -77,6 +77,6 @@ My research interests primarily lie in the privacy preserving and secure computa
 I'm now a third year M.S. student in Computer Science at [College of Cyberspace Security, DongGuan University of Technology](https://cs.dgut.edu.cn/index.htm). It's very lucky for me to be advised by Professor [Rui Lee](https://ieeexplore.ieee.org/author/37071988400).
 I have received another master degree in Finance from [The Center For Economic Research](http://www.cer.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) and was lucky to be supervised by [Aijun Lee](https://faculty.sdu.edu.cn/liaijun/zh_CN/index/604687/list/index.htm).
 I received my bachelor's degree in Mathematics at [Northeast Forestry University](https://www.nefu.edu.cn/index.htm).
-As an undergraduate student, I was lucky to collaborate with Professor [Liang Ding](https://science.nefu.edu.cn/info/1223/2274.htm) at [Science College](https://science.nefu.edu.cn/) to participate a [National Innovation Training Program for College Students](https://drive.google.com/file/d/1V2J1CIe08hOpQfmALnY0_4i7FF-LGFth/view?usp=sharing) publish a paper named [**Application of shearlet and wavelets in signal and image denoising**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=HLDZ201602022&uniplatform=NZKPT&v=qqgVrzQAwQp76MgW50x01ghdLI8qj47sDDeXf9n-x0VHqGgvkZZjPtp7VJM67cFv).
+As an undergraduate student, I was lucky to collaborate with Professor [Liang Ding](https://science.nefu.edu.cn/info/1223/2274.htm) at [Science College](https://science.nefu.edu.cn/) to participate a [National Innovation Training Program for College Students](https://drive.google.com/file/d/1V2J1CIe08hOpQfmALnY0_4i7FF-LGFth/view?usp=sharing) and to publish a paper named [**Application of shearlet and wavelets in signal and image denoising**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=HLDZ201602022&uniplatform=NZKPT&v=qqgVrzQAwQp76MgW50x01ghdLI8qj47sDDeXf9n-x0VHqGgvkZZjPtp7VJM67cFv).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
