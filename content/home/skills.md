@@ -22,7 +22,7 @@ feature:
     name: C++
   - description: 100%
     icon: python
-    icon_pack: fas
+    icon_pack: fab
     name: Statistics
   - description: 10%
     icon: camera-retro
