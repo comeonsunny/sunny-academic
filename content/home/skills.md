@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: C++
   - description: 100%
-    icon: chart-line
+    icon: python
     icon_pack: fas
     name: Statistics
   - description: 10%
