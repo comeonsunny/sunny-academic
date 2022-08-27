@@ -26,7 +26,7 @@ feature:
     name: Python
   - description: 60%
     icon: message-text
-    icon_pack: fab
+    icon_pack: fas
     name: Latex
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
