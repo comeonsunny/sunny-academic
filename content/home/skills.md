@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 80%
-    icon: arrow-right-from-arc
-    icon_pack: fas
+    icon: square-c
+    icon_pack: fab
     name: C++
   - description: 70%
     icon: python
