@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 80%
     icon: arrow-right-from-arc
-    icon_pack: fab
+    icon_pack: fas
     name: C++
   - description: 70%
     icon: python
