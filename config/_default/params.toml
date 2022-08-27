@@ -88,19 +88,16 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zhezeng at cs.ucla.edu"
+email = "changqischolar at gmail.com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "404 Westwood Plaza", city = "Los Angeles", region = "CA", postcode = "90095", country = "United States", country_code = "US"}
+address = {street = "Songshanhu Committee", city = "Dongguan", region = "Guangdong", postcode = "510730", country = "China", country_code = "CN"}
 
-# Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.069651", longitude = "-118.444536"}
 
 # Directions for visitors to locate you.
-directions = "Room 386 Engineering VI"
+directions = "College of Cyberspace Security"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -244,7 +241,7 @@ plugins_js  = []
 ############################
 ## Maps
 #############################
-#[map]
+[map]
   # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
   # and choose a map provider below.
   #
@@ -259,9 +256,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  # engine = 2
-  # api_key = ""
-  # zoom = 15
+  engine = 2
+  api_key = ""
+  zoom = 15
 
 ############################
 ## Marketing
