@@ -97,7 +97,7 @@ address = {street = "Songshanhu Committee", city = "Dongguan", region = "Guangdo
 
 
 # Directions for visitors to locate you.
-directions = "College of Cyberspace Security"
+directions = "College of Cyberspace Security" 
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
