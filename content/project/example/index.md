@@ -2,15 +2,15 @@
 title: Jump-ORAM
 summary: An ORAM sheme achieves constant bandwith blowup without server-side computing overhead.
 tags:
-  - Deep Learning
+  - Jump-ORAM
 date: '2022-08-28T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: ''
-  focal_point: Smart
+# image:
+#   caption: ''
+#   focal_point: Smart
 
 links:
   - icon: github
