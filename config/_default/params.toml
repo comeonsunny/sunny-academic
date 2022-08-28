@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Songshanhu Committee", city = "Dongguan", region = "Guangdong", postcode = "510730", country = "China", country_code = "CN"}
+address = {street = "Dongguan University of Technology", city = "Dongguan", region = "Guangdong", postcode = "510730", country = "China", country_code = "CN"}
 
 
 # Directions for visitors to locate you.
