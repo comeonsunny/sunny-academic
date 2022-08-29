@@ -13,7 +13,7 @@ authors:
 author_notes:
 - "Equal contribution"
 
-date: "2022-08-29T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,10 +26,10 @@ publishDate: "2023-05-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the ECML-PKDD Workshop on Deep Continuous-Discrete Machine Learning (DeCoDeML 2020)
-publication_short: DeCoDeML Workshop at ECML-PKDD 2020
+publication: IEEE International Conference on Computer Communications (INFOCOM 2023)
+publication_short: INFOCOM 2023
 
-abstract: Weighted model integration (WMI) is an appeal-ing framework for probabilistic inference, it allows for expressing the complex dependencies in real-world problems, where variables are both continuous and discrete, via the language of Satisfiability Modulo Theories (SMT), as well as to compute probabilistic queries with complex logical and arithmetic constraints. Yet, existing WMI solvers are not ready to scale to these problems.They either ignore the intrinsic dependency structure of the problem entirely, or they are limited to overly restrictive structures. To narrow this gap,we derive a factorized WMI computation enabling us  to  devise  a  scalable  WMI  solver  based  onmessage passing, called MP-WMI. Namely, MP-WMI is the first WMI solver that can (i) perform exact inference on the full class of tree-structuredWMI problems, and (ii) perform inter-query amortization, e.g., to compute all marginal densities simultaneously.  Experimental results show that our solver dramatically outperforms the existingWMI solvers on a large set of benchmarks.
+abstract: The ORAM is a cryptographic protocol that hides client access patterns from leaking. Prior works suffer the cost of logarithmic communication blowup or server-side computing overhead. In this paper, we present an ORAM scheme named Jump-ORAM that achieves constant bandwidth blowup without server-side computing overhead. To achieve above goal, we map a request for one block into the corresponding request for a given number of blocks. To implement above mapping, we first propose a data structure named position map to convert the accessed block's logical-ID into its physical-ID, and then design a selection algorithm to map the accessed block's physical-ID to a given number of physical-IDs. To ensure the security of the Jump-ORAM, we periodically and randomly rewrite accessed blocks back to the server without leaking their new assigned physical-IDs. Specifically, we propose a data structure named the data cache to temporarily store accessed blocks. We design a swap algorithm to rewrite accessed blocks back to the server without leaking their new assigned physical-IDs. We proved that our scheme is secure under a statistical model. We compared Jump-ORAM's performance with its counterparts. Experimental results demonstrate the efficiency of Jump-ORAM.
 
 # Summary. An optional shortened abstract.
 summary: DeCoDeML Workshop at ECML-PKDD 2020
