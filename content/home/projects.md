@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Jump-ORAM
-      tag: Jump-ORAM
+    - name: Deep Learning
+      tag: Deep Learning
     - name: Other
       tag: Demo
 
