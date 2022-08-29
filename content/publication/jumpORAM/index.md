@@ -28,8 +28,8 @@ publishDate: "2023-05-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE International Conference on Computer Communications (New York area 2023)
-publication_short: IEEE INFOCOM 2023
+publication: Proceedings of the ECML-PKDD Workshop on Deep Continuous-Discrete Machine Learning (DeCoDeML 2020)
+publication_short: DeCoDeML Workshop at ECML-PKDD 2020
 
 abstract: Weighted model integration (WMI) is an appeal-ing framework for probabilistic inference, it allows for expressing the complex dependencies in real-world problems, where variables are both continuous and discrete, via the language of Satisfiability Modulo Theories (SMT), as well as to compute probabilistic queries with complex logical and arithmetic constraints. Yet, existing WMI solvers are not ready to scale to these problems.They either ignore the intrinsic dependency structure of the problem entirely, or they are limited to overly restrictive structures. To narrow this gap,we derive a factorized WMI computation enabling us  to  devise  a  scalable  WMI  solver  based  onmessage passing, called MP-WMI. Namely, MP-WMI is the first WMI solver that can (i) perform exact inference on the full class of tree-structuredWMI problems, and (ii) perform inter-query amortization, e.g., to compute all marginal densities simultaneously.  Experimental results show that our solver dramatically outperforms the existingWMI solvers on a large set of benchmarks.
 
