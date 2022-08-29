@@ -28,7 +28,7 @@ content:
     - name: All
       tag: '*'
     - name: ORAM
-      tag: Deep Learning
+      tag: Jump_ORAM
     - name: Other
       tag: Demo
 
