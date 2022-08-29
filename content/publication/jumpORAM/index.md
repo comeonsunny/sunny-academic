@@ -1,5 +1,5 @@
 ---
-title: "Relax, Compensate and then Integrate"
+title: "Jump-ORAM: An ORAM Scheme Achieving Constant Bandwidth Blowup Without Server-side Computing Overhead"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
