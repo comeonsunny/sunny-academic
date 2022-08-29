@@ -33,16 +33,7 @@ publication_short: IEEE INFOCOM 2023
 
 abstract: The ORAM is a cryptographic protocol that hides client access patterns from leaking.
 Prior works suffer the cost of logarithmic communication blowup or server-side computing overhead.
-In this paper, we present an ORAM scheme named Jump-ORAM that achieves constant bandwidth blowup without server-side computing overhead.  
-To achieve above goal, we map a request for one block into the corresponding request for a given number of blocks.
-To implement above mapping, we first propose a data structure named position map to convert the accessed block's logical-ID into its physical-ID, and then design a selection algorithm to map the accessed block's physical-ID to a given number of physical-IDs.
-To ensure the security of the Jump-ORAM, we periodically and randomly rewrite accessed blocks back to the server without leaking their new assigned physical-IDs. 
-Specifically, we propose a data structure named the data cache to temporarily store accessed blocks. 
-We design a swap algorithm to rewrite accessed blocks back to the server without leaking their new assigned physical-IDs.
-We proved that our scheme is secure under a statistical model. 
-We compared Jump-ORAM's performance with its counterparts. 
-Experimental results demonstrate the efficiency of Jump-ORAM.
-It is approximately $100\times$ and $633\times$ faster than Path-ORAM and $S^3$ORAM, respectively. 
+In this paper, we present an ORAM scheme named Jump-ORAM that achieves constant bandwidth blowup without server-side computing overhead.To achieve above goal, we map a request for one block into the corresponding request for a given number of blocks. To implement above mapping, we first propose a data structure named position map to convert the accessed block's logical-ID into its physical-ID, and then design a selection algorithm to map the accessed block's physical-ID to a given number of physical-IDs. To ensure the security of the Jump-ORAM, we periodically and randomly rewrite accessed blocks back to the server without leaking their new assigned physical-IDs. Specifically, we propose a data structure named the data cache to temporarily store accessed blocks. We design a swap algorithm to rewrite accessed blocks back to the server without leaking their new assigned physical-IDs. We proved that our scheme is secure under a statistical model. We compared Jump-ORAM's performance with its counterparts. Experimental results demonstrate the efficiency of Jump-ORAM. It is approximately 100 and 633 times faster than Path-ORAM and S3ORAM, respectively. 
 # Summary. An optional shortened abstract.
 summary: Jump-ORAM achieves constant bandwidth blowup without server-side computing overhead.
 
