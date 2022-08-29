@@ -14,11 +14,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -43,7 +43,7 @@ It is approximately $100\times$ and $633\times$ faster than Path-ORAM and $S^3$O
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [ORAM]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
@@ -57,7 +57,7 @@ url_pdf: ''
 url_code: 'https://github.com/comeonsunny/Jump_ORAM'
 url_dataset: ''
 url_poster: ''
-url_project: 'content/project/ORAM/index.md'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
