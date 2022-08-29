@@ -1,19 +1,16 @@
 ---
-title: "Relax, Compensate and then Integrate"
+title: "Jump-ORAM: An ORAM Scheme Achieving Constant Bandwidth Blowup Without Server-side Computing Overhead"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Paolo Morettin
-- Fanqi Yan
-- Antonio Vergari
-- Guy Van den Broeck
+- Rui Li
+- Huafeng Ruan
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
+author_notes:''
 
 date: "2022-08-028T00:00:00Z"
 doi: ""
