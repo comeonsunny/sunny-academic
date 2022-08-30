@@ -1,5 +1,5 @@
 ---
-title: "Jump-ORAM: An ORAM Scheme Achieving Constant Bandwidth Blowup Without Server-side Computing Overhead"
+title: "Application of shearlet and wavelets in signal and image denoising"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
