@@ -29,6 +29,8 @@ content:
       tag: '*'
     - name: ORAM
       tag: Jump_ORAM
+    - name: cryptography
+      tag: Semantic Security Schemes
     - name: Other
       tag: Demo
 
