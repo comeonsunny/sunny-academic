@@ -6,7 +6,7 @@ title: "RC5-CBC: Best Matching Combination of Block Cipher and Model of Operatio
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Huafeng Ruan
+- Rui Li
 
 # Author notes (optional)
 # author_notes:'' 
