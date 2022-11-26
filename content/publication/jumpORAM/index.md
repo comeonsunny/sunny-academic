@@ -48,7 +48,7 @@ url_code: 'https://github.com/comeonsunny/Jump_ORAM'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://ph74-my.sharepoint.com/personal/sunny_ph74_onmicrosoft_com/Documents/%E6%96%87%E6%A1%A3/GitHub/insights/15.%20Slides%20for%20Introduing%20JumpORAM.pdf'
 url_source: ''
 url_video: ''
 
