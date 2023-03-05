@@ -6,15 +6,16 @@ title: Changqi Sun
 superuser: true
 
 # Role/position/tagline
-role: M.S. student in CS Applying for Ph.D.
+# role: M.S. student in CS Applying for Ph.D.
+role: Prospective Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Dongguan University of Technology
-    url: /https://cs.dgut.edu.cn/
+  - name: Virginia Tech
+    url: https://www.vt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include but not limit to privacy preserving, artifical intelligence and programmable matter.
+bio: My research interests include but not limit to privacy preserving, deep learning and federated learning.
 
 # Interests to show in About widget
 interests:
@@ -70,11 +71,11 @@ email: ''
 highlight_name: true
 ---
 Hi! I'm Changqi Sun. Thanks for visiting my homepage. 
-I am looking for a like-minded mentor as my future Ph.D. supervisor. 
+I am a prospective Ph.D. student in the program of computer science and application of Virginia Tech and it is my honor to be supervised by [Prfessor Thoang](https://thanghoang.github.io/).
 
 My research interests primarily lie in the privacy preserving and secure computation. My current works focus on protecting cloud users' data access pattern from leaking. Furthermore, I am striving to improve the efficiency of Oblivious Random Access Machine (ORAM), a cryptography primitive hiding the data access pattern. In addition, I am interested in the intersection of autopilot and artificial intelligence. 
 
-I'm now a third year M.S. student in Computer Science at [College of Cyberspace Security, DongGuan University of Technology](https://cs.dgut.edu.cn/index.htm). It's very lucky for me to be advised by Professor [Rui Lee](https://ieeexplore.ieee.org/author/37071988400).
+I was a M.S. student in Computer Science at [College of Cyberspace Security, DongGuan University of Technology](https://cs.dgut.edu.cn/index.htm). It's very lucky for me to be advised by Professor [Rui Lee](https://ieeexplore.ieee.org/author/37071988400).
 I have received another master degree in Finance from [The Center For Economic Research](http://www.cer.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) and was lucky to be supervised by [Aijun Lee](https://faculty.sdu.edu.cn/liaijun/zh_CN/index/604687/list/index.htm).
 I received my bachelor's degree in Mathematics at [Northeast Forestry University](https://www.nefu.edu.cn/index.htm).
 As an undergraduate student, I was lucky to collaborate with Professor [Liang Ding](https://science.nefu.edu.cn/info/1223/2274.htm) at [Science College](https://science.nefu.edu.cn/) to participate a [National Innovation Training Program for College Students](https://drive.google.com/file/d/1V2J1CIe08hOpQfmALnY0_4i7FF-LGFth/view?usp=sharing) and publish a paper named [**Application of shearlet and wavelets in signal and image denoising**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=HLDZ201602022&uniplatform=NZKPT&v=qqgVrzQAwQp76MgW50x01ghdLI8qj47sDDeXf9n-x0VHqGgvkZZjPtp7VJM67cFv).
