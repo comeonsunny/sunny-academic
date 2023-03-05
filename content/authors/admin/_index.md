@@ -71,7 +71,7 @@ email: ''
 highlight_name: true
 ---
 Greetings! I am Changqi and I am honored by your visit to my homepage. I am currently enrolled in the Doctor of Philosophy in Computer Science & Applications program at Virginia Tech. 
-It is my privilege to have the supervision of [Prfessor Thoang](https://thanghoang.github.io/), a highly regarded scholar in the field, for my academic pursuits.
+It is my privilege to have the supervision of [Professor Thoang](https://thanghoang.github.io/), a highly regarded scholar in the field, for my academic pursuits.
 
 My research interests primarily lie in the privacy preserving and secure computation. My current works focus on protecting cloud users' data access pattern from leaking. Furthermore, I am striving to improve the efficiency of Oblivious Random Access Machine (ORAM), a cryptography primitive hiding the data access pattern. In addition, I am interested in the intersection of autopilot and artificial intelligence. 
 
