@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Remote Internship
+    - course: Remote Internship
       institution: King Abdullah University of Science and Technology
       year: 2023
     - course: MS in Computer Science and Technology
