@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Jump-ORAM
 summary: An ORAM scheme achieves constant bandwidth blowup without server-side computation overhead.
 tags:
@@ -65,4 +65,4 @@ make
 ```
 
 , which produces the binary executable file named ```Jump_ORAM``` in ``Jump_ORAM/build/``.
-
+ -->
